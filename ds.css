@@ -1,0 +1,29 @@
+	h1{
+		font-family: serif;
+		color: lightblue;
+		text-align: center;
+	}
+
+.A{
+	font-family: cursive;
+	columns: black;
+	text-align: center;
+}
+.B{
+	font-family: cursive;
+	color: blueviolet;
+	text-align: center;
+
+}
+img{
+	width:  4cm;
+    border-radius: 50%;
+        box-shadow: 1px 1px 4px gray;
+        padding: 5px;
+        background: white;
+        margin: 15px;
+        transition: 1s;
+        opacity: 90%;
+        display : block; margin: 0 auto
+
+}
